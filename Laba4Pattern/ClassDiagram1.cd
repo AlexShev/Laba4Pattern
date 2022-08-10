@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="library_laba4.Book" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEgAAAgAQAEAgAAgAIAAAEAUAAAAA=</HashCode>
+      <FileName>Book\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.BookBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACBAAAAAAAAhQAAAAIAAABKgBAAQAAQCAxgCAA=</HashCode>
+      <FileName>Book\BookBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.BookCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACCAAAAAEgAAAAAQAEAAAAgAYAAAACAAAAAA=</HashCode>
+      <FileName>Book\BookCard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.BookParser" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAAAAAAAAAgAAAAAAAAAAAABAAAQAAQAAEAAACgA=</HashCode>
+      <FileName>Book\BookParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.HistoryOfIssue" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAEAAEAAAAAAAgAAAAAQAAEAQQAAAA=</HashCode>
+      <FileName>Book\HistoryOfIssue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.Bookсase" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACEAAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>BooksStorage\Bookсase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.Department" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEACAEAAAAAAAAAAQAAAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>BooksStorage\Department.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library_laba4.DepartmentProxy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEACAAAAAAgAAAAAQAAAAAAAAIAAAAAAAACEA=</HashCode>
+      <FileName>BooksStorage\DepartmentProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.DepartmentPurser" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQChAEAAAAABAACAAAAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>BooksStorage\DepartmentPurser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.MetaData" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>BooksStorage\MetaData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library_laba4.Librarian" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABFAChCAAAgAAQAgAQAAAAAAAAAAQEAAIAhAAA=</HashCode>
+      <FileName>Library\Librarian.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.Library" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAACAYAgAAkAAAAAQAQMAAAAEAAAAAAAQAAAA=</HashCode>
+      <FileName>Library\Library.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.BookReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAIAKkABAAgAAgCAlAgAIIAAAAAABAAAAAIAQAAEA=</HashCode>
+      <FileName>Readeres\BookReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.184" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.Logers.ConsoleLoger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAAAAACAAAA=</HashCode>
+      <FileName>Logers\ConsoleLoger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.Logers.FileLoger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Logers\FileLoger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Laba4Pattern.Readeres.AccurateBookManagementStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="10.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Readeres\AccurateBookManagementStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Laba4Pattern.Readeres.RandomBookManagementStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="9.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Readeres\RandomBookManagementStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Laba4Pattern.Readeres.SlovenBookManagementStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Readeres\SlovenBookManagementStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Laba4Pattern.Program" Collapsed="true">
+    <Position X="19.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba4Pattern.Simulator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAIAAAAAAABAAAAQAABAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="library_laba4.Today" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Today.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="library_laba4.IBookBuilder" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAIAAABCgBAAAAAAAAhgAAA=</HashCode>
+      <FileName>Book\IBookBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library_laba4.IDepartment" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>BooksStorage\IDepartment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library_laba4.IObservable" Collapsed="true">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Library\IObservable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library_laba4.IObserver" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library_laba4.Logers.ILoger" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Logers\ILoger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Laba4Pattern.Readeres.IBookManagementStrategy" Collapsed="true">
+    <Position X="10.5" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Readeres\IBookManagementStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
